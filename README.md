@@ -1,5 +1,3 @@
-# Linguagens-de-Programacao
-
 # What is this?
 This project was developed by me during my degree in Bioinformatics in the curricular unit "Linguagens de Programação I". 
 The teacher asked to create a schedule that had a menu with the following options:
