@@ -1,5 +1,4 @@
 # Linguagens-de-Programacao
-python
 
 # What is this?
 This project was developed by me during my degree in Bioinformatics in the curricular unit "Linguagens de Programação I". 
