@@ -1,5 +1,5 @@
 # What is this?
-This project was developed by me during my degree in Bioinformatics in the curricular unit "Linguagens de Programação I". 
+This project was developed by me during my degree in Bioinformatics in the curricular unit Programming Languages I. 
 The teacher asked to create a schedule that had a menu with the following options:
     1 - Add a new client
     2 - Associate a contact to a client
